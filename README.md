@@ -1,7 +1,7 @@
 #Sobre nos
 
 Lucas
-<img src="lucas.jpg" alt="Texto alternativo" title="lucas" />
+<img src="lucas.jpg" alt="Texto alternativo" title="lucas" width="300" height="300 />
 
 Rhuam
 Ana
