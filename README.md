@@ -5,6 +5,7 @@ Lucas
 
 Rhuam
 Ana
+<img src="ana.jpg" alt="Texto alternativo" title="ana" width="300" height="300" />
 Kauan
 
 <!---
