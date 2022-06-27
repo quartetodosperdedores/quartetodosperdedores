@@ -7,7 +7,8 @@ Rhuam
 Ana
 <img src="ana.jpg" alt="Texto alternativo" title="ana" width="300" height="300" />
 Kauan
-
+Moysés
+<img src="Moyses.jpg" alt="Texto alternativo" title="Moyses" width="300" height="300" />
 <!---
 quartetodosperdedores/quartetodosperdedores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
