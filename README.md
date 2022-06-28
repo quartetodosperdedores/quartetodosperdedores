@@ -8,8 +8,4 @@ Ana
 <img src="ana.jpg" alt="Texto alternativo" title="ana" width="300" height="300" />
 Kauan
 Moysés
-<img src="Moyses.jpg" alt="Texto alternativo" title="Moyses" width="300" height="300" />
-<!---
-quartetodosperdedores/quartetodosperdedores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Moyses](https://user-images.githubusercontent.com/107865198/176062839-cc68f4fa-e8ef-4587-941a-99cb1cf6af9a.jpg)
