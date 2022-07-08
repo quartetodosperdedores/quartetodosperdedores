@@ -17,6 +17,6 @@ Kauan
 
 Moyses
 
-<img src="moyses.jpg" alt="Texto alternativo" title="moyses" width="300" height="300" />
+
 
 Rhuam
