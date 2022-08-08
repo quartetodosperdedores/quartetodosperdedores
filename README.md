@@ -16,9 +16,8 @@ Ana
 Emanuelle
 
 <img src="emanuell.jpg" alt="Texto alternativo" title="emanuell" width="300" height="300" />
+ Me chamo Emanuelle Bidoia, tenho 15 anos, no momento sou apenas estudante, estudo no Colégio Estadual Olavo Bilac, meu hobby é assistir séries.
 
 Rhuam
-
-
 
 Kauan
