@@ -10,13 +10,13 @@ meu hobby predileto é escutar é assistir séries/ filmes,
 Ana
 
 <img src="ana.jpg" alt="Texto alternativo" title="ana" width="300" height="300" />
- Me chamo Ana Carolina, estudo no colégio Esatadual Olavo Bilac,tenho 14 anos.Meu hobby é ouvir músicas, desenhar e pintar.
+ Me chamo Ana Carolina, estudo no colégio Esatadual Olavo Bilac,tenho 15 anos.Meu hobby é ouvir músicas, desenhar e pintar.
  Por enquanto eu só estudo.
 Kauan
 
 
-Moyses
+Emanuelle
 
-<img src="moyses.jpg" alt="Texto alternativo" title="moyses" width="300" height="300" />
+
 
 Rhuam
