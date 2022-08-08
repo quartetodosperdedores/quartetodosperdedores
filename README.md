@@ -12,11 +12,13 @@ Ana
 <img src="ana.jpg" alt="Texto alternativo" title="ana" width="300" height="300" />
  Me chamo Ana Carolina, estudo no colégio Esatadual Olavo Bilac,tenho 15 anos.Meu hobby é ouvir músicas, desenhar e pintar.
  Por enquanto eu só estudo.
-Kauan
-
 
 Emanuelle
 
 <img src="emanuell.jpg" alt="Texto alternativo" title="emanuell" width="300" height="300" />
 
 Rhuam
+
+
+
+Kauan
