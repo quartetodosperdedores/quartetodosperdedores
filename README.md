@@ -17,6 +17,6 @@ Kauan
 
 Emanuelle
 
-<img src="emanuelle.jpg" alt="Texto alternativo" title="emanuelle" width="300" height="300" />
+fb2331338724e9dad6161bb0e025c522f47cc2c9
 
 Rhuam
